@@ -10,7 +10,7 @@ Notice: **We're on the bleeding edge.** Please make sure to back your vault up!
 
 Now compatible with Self-hosted LiveSync 0.13.0 or above.
 
-## How to run
+## How to run 
 
 ```sh
 git clone --recursive https://github.com/vrtmrz/filesystem-livesync
