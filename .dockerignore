@@ -1,0 +1,12 @@
+.git
+.github
+.gitignore
+.gitmodules
+node_modules
+dist
+.idea
+.vscode
+utils
+vault
+**/*.log
+**/.DS_Store
